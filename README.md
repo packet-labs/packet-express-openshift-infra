@@ -1,6 +1,8 @@
 OpenShift on Packet
 ==
 
+**Note**: Extremely Work-in-Progress, commits on this branch will be highly volatile. 
+
 A project to provision and bootstrap:
 
 1. A master node pool
