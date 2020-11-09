@@ -1,7 +1,9 @@
+![](https://img.shields.io/badge/Stability-EndOfLife-black.svg)
+
 OpenShift on Packet
 ==
 
-**Note**: Extremely Work-in-Progress, commits on this branch will be highly volatile. 
+**Note**: This repository is [End of Life](https://github.com/packethost/standards/blob/master/end-of-life-statement.md) meaning that this software is no longer supported nor maintained by Equinix Metal or its community.
 
 A project to provision and bootstrap:
 
